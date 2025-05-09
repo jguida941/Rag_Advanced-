@@ -1,0 +1,9 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "index_type": "IndexFlatL2",
+  "creation_time": "2025-05-08T22:09:58.767579",
+  "last_updated": "2025-05-08T23:03:03.253701",
+  "num_vectors": 215,
+  "last_accessed": "2025-05-08T23:41:51.542566"
+}
